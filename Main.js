@@ -87,7 +87,7 @@ function SimpleEvenAdding(n){
     return splitStr.join(' '); 
  }
  
- document.write(letterCapitalize("hi! my name is brahim"));
+ document.write(letterCapitalize("hi! my name is Yassine"));
 
 
   //---------------Question 6-------------//
@@ -96,7 +96,7 @@ function SimpleEvenAdding(n){
     return s.split('').reverse().join('');
   }
 
-  document.write(simpleReverse('Brahim Likes JavaScript '));
+  document.write(simpleReverse('Yassine Likes JavaScript '));
 
  //---------------Question 7-------------//
 
